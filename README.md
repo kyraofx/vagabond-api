@@ -1,6 +1,6 @@
 # Vagabond API
 
-A REST API for Root's Vagabond characters built with Python, FastAPI, and Pydantic.
+A REST API for Root's Vagabond characters built with Python, FastAPI, and Pydantic. Creator Note: This is one of the mini projects to help me understand creating rest api using FastAPI.
 
 ## Overview
 
